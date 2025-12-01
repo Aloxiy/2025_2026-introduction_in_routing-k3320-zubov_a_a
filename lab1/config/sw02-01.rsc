@@ -10,7 +10,7 @@ add bridge=bridge1 tagged=bridge1,ether2 untagged=ether3 vlan-ids=10
 /ip address
 add address=10.10.0.3/24 interface=vlan10
 /user
-add name=plida password=letmein group=full
+add name=aloxiy password=1234 group=full
 remove admin
 /system identity
 set name=SW02-01
